@@ -2,7 +2,7 @@
   <img
     src="assets/lexiglance_banner.png"
     alt="Lexiglance"
-    width="720"
+    width="900"
   />
 </p>
 
