@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lexiglance-banner.png" alt="Lexiglance" width="720">
+</p>
+
 # Lexiglance
 
 Lexiglance is a flashcard system for learning **German vocabulary** with cards that feel more like a mini “learning page” than a bare translation pair. The goal is not only to remember words, but to **use them correctly**: in real sentences, with natural phrasing, and with the right meaning in the right situation.
