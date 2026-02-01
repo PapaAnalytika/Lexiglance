@@ -1,21 +1,84 @@
-MIT License
+# Lexiglance Community License (Free Use, No Resale) v1.0
 
-Copyright (c) 2026 Kasra Mehdizadeh
+Copyright © 2026 Kasra Mehdizadeh
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Purpose
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license is intended to keep Lexiglance free for learners and educators, including in commercial teaching contexts, while preventing resale or paywalling of the decks and derived decks.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+## 1. Definitions
+
+- **“Work”** means all files in this repository, including templates, styles, content, and any exported deck/package files, plus any updates you receive under this license.
+- **“Derived Work”** means any modification, translation, adaptation, or remix of the Work, in whole or in part.
+- **“Sell”** or **“Resale”** means charging money (or requiring paid subscription, paid access, or other monetary consideration) specifically to obtain, access, download, or use the Work or a Derived Work, whether directly or indirectly.
+- **“Course”** means training, teaching, tutoring, workshops, or educational programs, whether free or paid.
+
+---
+
+## 2. License Grant
+
+Subject to the terms below, you are granted a worldwide, royalty-free, non-exclusive license to:
+
+1. **Use** the Work for any purpose.
+2. **Copy and share** the Work, as long as you do not Sell it.
+3. **Modify** the Work and share Derived Works, as long as you do not Sell them.
+
+---
+
+## 3. Allowed Uses (Explicit)
+
+The following are allowed, provided you do not Sell the Work or any Derived Work:
+
+1. Using the Work in a Course (including paid courses, paid tutoring, or paid coaching).
+2. Providing the Work to students or customers **for free** as part of a Course.
+3. Hosting the Work for **free download** (including on a website, classroom portal, learning platform, or repository), even if you charge for teaching/services.
+4. Making and sharing improvements (including translations), as long as access remains free.
+
+---
+
+## 4. No Resale / No Paywall
+
+You may not Sell the Work or any Derived Work.
+
+This includes, without limitation:
+
+1. Selling the deck(s) or charging for download/access keys.
+2. Placing the Work or Derived Work behind a paywall or “members-only” payment requirement.
+3. Bundling the Work or Derived Work into a paid product where access to the Work is a paid feature (even if other features are included).
+4. Redistributing the Work or Derived Work on marketplaces where customers pay to obtain it.
+
+---
+
+## 5. Attribution and Notice (Required)
+
+When you share the Work or a Derived Work, you must:
+
+1. Keep this license text (or include a clear link to it) with the distribution.
+2. Keep the copyright notice above.
+3. State clearly if you modified the Work (e.g., “Modified from Lexiglance by Kasra Mehdizadeh.”).
+
+---
+
+## 6. Trademarks and Endorsement
+
+This license does not grant permission to use the name **“Lexiglance”** as a brand for your own product or to imply endorsement by the original author. You may say “based on Lexiglance” or “modified from Lexiglance” as required for attribution.
+
+---
+
+## 7. Termination
+
+If you violate this license, your rights under it end automatically. They are reinstated if you come into full compliance within 30 days of becoming aware of the violation.
+
+---
+
+## 8. Warranty Disclaimer
+
+**THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.**
+
+---
+
+## 9. Commercial Licensing / Exceptions
+
+If you want permission to Sell the Work or a Derived Work, you must obtain a separate, written commercial license from the copyright holder.
