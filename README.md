@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/lexiglance_header.png" alt="Lexiglance" width="720">
-</p>
+![Lexiglance](assets/lexiglance_header.png)
 
 # Lexiglance
 
