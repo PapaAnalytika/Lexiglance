@@ -8,17 +8,19 @@
 
 # Lexiglance
 
-Lexiglance is an **Anki-based flashcard system** for learning **German vocabulary**, with cards that feel more like a mini “learning page” than a bare translation pair. The goal is not only to remember words, but to **use them correctly**: in real sentences, with natural phrasing, and with the right meaning in the right situation.
+Lexiglance is an **Anki-based flashcard system** for learning **German vocabulary**, with cards that feel more like a mini “learning page” than a mere translation pair. The goal is not only to remember words, but to learn to **use them correctly**: in the correct context and with natural phrasing.
 
-Lexiglance builds on Anki’s spaced-repetition engine, while extending it with richer structure, context, and usage-focused information.
 
 ## Combined learning method
 
-Lexiglance brings together several learning methods that reinforce each other:
+Lexiglance combines several learning methods that reinforce one another:
 
-- **Spaced repetition + active recall (via Anki)**: you review at the right time, and you practice pulling the meaning and usage out of your memory (instead of just re-reading).
-- **Learning in context**: every word is anchored in a clear, memorable example sentence, so you learn how it actually appears in real life.
-- **Meaning-by-meaning learning**: words often have more than one meaning. Lexiglance separates these meanings so you don’t mix them up.
+- **Spaced repetition + active recall (via Anki engine)**: you review at the right time, and you practice pulling the meaning and usage out of your memory.
+- **Learning in context**: every word is used in clear, memorable example sentences and collocations and comparisons. Grammer, pitfalls, and word comparisons are clearly explained with examples.
+- **Meaning-by-meaning learning**: words often have more than one meaning. Lexiglance teaches these meanings with their CEFR level (i.e A1-C2 level).
+
+
+
 - **From understanding to speaking**: the cards highlight the common “sentence shapes” a word appears in (for example: what usually comes after it, which prepositions are common, and how it typically connects to other words).
 - **Deeper memory hooks**: short notes, patterns, and connections make it easier to remember and harder to forget.
 - **Learning by contrast**: similar words are shown side-by-side so you learn what’s different (this prevents the most common long-term mistakes).
