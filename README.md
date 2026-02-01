@@ -8,13 +8,15 @@
 
 # Lexiglance
 
-Lexiglance is a flashcard system for learning **German vocabulary** with cards that feel more like a mini “learning page” than a bare translation pair. The goal is not only to remember words, but to **use them correctly**: in real sentences, with natural phrasing, and with the right meaning in the right situation.
+Lexiglance is an **Anki-based flashcard system** for learning **German vocabulary**, with cards that feel more like a mini “learning page” than a bare translation pair. The goal is not only to remember words, but to **use them correctly**: in real sentences, with natural phrasing, and with the right meaning in the right situation.
 
-## Why Lexiglance works (learning methods we combine)
+Lexiglance builds on Anki’s spaced-repetition engine, while extending it with richer structure, context, and usage-focused information.
+
+## Combined learning method
 
 Lexiglance brings together several learning methods that reinforce each other:
 
-- **Spaced repetition + active recall**: you review at the right time, and you practice pulling the meaning and usage out of your memory (instead of just re-reading).
+- **Spaced repetition + active recall (via Anki)**: you review at the right time, and you practice pulling the meaning and usage out of your memory (instead of just re-reading).
 - **Learning in context**: every word is anchored in a clear, memorable example sentence, so you learn how it actually appears in real life.
 - **Meaning-by-meaning learning**: words often have more than one meaning. Lexiglance separates these meanings so you don’t mix them up.
 - **From understanding to speaking**: the cards highlight the common “sentence shapes” a word appears in (for example: what usually comes after it, which prepositions are common, and how it typically connects to other words).
@@ -48,7 +50,8 @@ When it adds real learning value, the card may also include:
 
 ## Status
 
-This repository is currently focused on the **end-user deliverables** (templates/styles and card-format conventions). The authoring/build pipeline is maintained separately for now.
+This repository is currently focused on the **end-user deliverables for Anki** (templates, styles, and card-format conventions).  
+The authoring/build pipeline is maintained separately for now.
 
 ## License
 
@@ -62,6 +65,12 @@ See [`LICENSE`](LICENSE) for details.
 
 Lexiglance is **free to use**. If it helps you learn, I’d genuinely appreciate a donation to support continued development:
 
-<a href="https://www.buymeacoffee.com/papaanalytika" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/papaanalytika" target="_blank">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    alt="Buy Me A Coffee"
+    style="height: 60px !important; width: 217px !important;"
+  />
+</a>
 
 Thank you, and happy learning!
