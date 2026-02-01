@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="assets/lexiglance_header.png"
+    src="assets/lexiglance_banner.png"
     alt="Lexiglance"
-    width="420"
+    width="720"
   />
 </p>
 
