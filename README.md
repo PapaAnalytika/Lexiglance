@@ -54,6 +54,6 @@ See [`LICENSE`](LICENSE) for details.
 
 Lexiglance is **free to use**. If it helps you learn, I’d genuinely appreciate a donation to support continued development:
 
-👉 https://buymeacoffee.com/PapaAnalytika
+<a href="https://www.buymeacoffee.com/papaanalytika" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Thank you, and happy learning!
