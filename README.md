@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lexiglance-banner.png" alt="Lexiglance" width="720">
+  <img src="docs/lexiglance_header.png" alt="Lexiglance" width="720">
 </p>
 
 # Lexiglance
